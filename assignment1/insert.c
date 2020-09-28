@@ -1,3 +1,5 @@
+/* NAME SAI KUMAR SATAPATHY*/
+/*CSE*/
 /*insert an element to a given array index and find how many element in the array -- sai ku. satapathy*/
 #include<stdio.h>
 void insert(int n, int arr[100],int no,int pos)
