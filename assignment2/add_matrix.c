@@ -1,3 +1,5 @@
+/* NAME SAI KUMAR SATAPATHY*/
+/*CSE*/
 #include<stdio.h>
 void read(int a[10][10],int  n,int m )
 {
