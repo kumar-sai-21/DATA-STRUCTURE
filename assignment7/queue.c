@@ -1,3 +1,7 @@
+/* NAME SAI KUMAR SATAPATHY*/
+/*CSE*/
+/*queue using linked list*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
