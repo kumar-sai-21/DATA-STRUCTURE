@@ -1,3 +1,5 @@
+/* NAME SAI KUMAR SATAPATHY*/
+/*CSE*/
 #include<stdio.h>
 #include<stdlib.h>     
 #include<ctype.h>     
