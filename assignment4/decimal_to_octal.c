@@ -1,3 +1,5 @@
+/* NAME SAI KUMAR SATAPATHY*/
+/*CSE*/
 #include <stdio.h>
 #include <stdbool.h>
 #define MAX_SIZE 1000
