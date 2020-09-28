@@ -1,3 +1,6 @@
+/* NAME SAI KUMAR SATAPATHY*/
+/*CSE
+Stack using linked list*/
 #include<stdio.h>
 #include<stdlib.h>
 struct node
